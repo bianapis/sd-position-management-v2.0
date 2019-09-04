@@ -1,0 +1,30 @@
+{
+  "financialPositionStateInstanceReportRecord" : {
+    "financialPositionStateInstanceReport" : {},
+    "financialPositionStateInstanceReportData" : "financialPositionStateInstanceReportData",
+    "financialPositionStateInstanceReportType" : "financialPositionStateInstanceReportType"
+  },
+  "financialPositionStateRetrieveActionTaskReference" : "FPSRATR760195",
+  "financialPositionStateRetrieveActionTaskRecord" : {},
+  "financialPositionStateRetrieveActionResponse" : "financialPositionStateRetrieveActionResponse",
+  "financialPositionStateInstanceAnalysis" : {
+    "financialPositionStateInstanceAnalysisReportType" : "financialPositionStateInstanceAnalysisReportType",
+    "financialPositionStateInstanceAnalysisReport" : {},
+    "financialPositionStateInstanceAnalysisData" : "financialPositionStateInstanceAnalysisData"
+  },
+  "positionManagementInstanceRecord" : {
+    "positionNotificationArrangementRecord" : {
+      "positionNotificationDetails" : "positionNotificationDetails",
+      "positionNotificationRecord" : {},
+      "positionNotificationBusinessUnitReference" : "726514"
+    },
+    "positionType" : "positionType",
+    "positionSector" : "positionSector",
+    "positionProductType" : "positionProductType",
+    "positionNotificationArrangementReference" : "788010",
+    "positionCustomerReference" : "751561",
+    "positionThresholdsLimits" : "positionThresholdsLimits",
+    "positionValue" : "positionValue",
+    "positionDefinition" : "positionDefinition"
+  }
+}

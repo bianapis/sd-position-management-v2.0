@@ -1,0 +1,12 @@
+{
+  "financialPositionStateInitiateActionRecord" : {},
+  "financialPositionStateInitiateActionReference" : "FPSIAR708981",
+  "financialPositionStateInstanceReference" : "FPSIR731140",
+  "financialPositionStateInstanceStatus" : "financialPositionStateInstanceStatus",
+  "positionManagementInstanceRecord" : {
+    "positionNotificationArrangementRecord" : {
+      "positionNotificationRecord" : {}
+    },
+    "positionValue" : "positionValue"
+  }
+}

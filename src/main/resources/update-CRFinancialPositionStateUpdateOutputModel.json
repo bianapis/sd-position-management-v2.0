@@ -1,0 +1,18 @@
+{
+  "financialPositionStateUpdateActionTaskReference" : "FPSUATR757195",
+  "updateResponseRecord" : {},
+  "financialPositionStateUpdateActionTaskRecord" : {},
+  "positionManagementInstanceRecord" : {
+    "positionNotificationArrangementRecord" : {
+      "positionNotificationDetails" : "positionNotificationDetails",
+      "positionNotificationBusinessUnitReference" : "797139"
+    },
+    "positionType" : "positionType",
+    "positionSector" : "positionSector",
+    "positionProductType" : "positionProductType",
+    "positionNotificationArrangementReference" : "750138",
+    "positionCustomerReference" : "702883",
+    "positionThresholdsLimits" : "positionThresholdsLimits",
+    "positionDefinition" : "positionDefinition"
+  }
+}

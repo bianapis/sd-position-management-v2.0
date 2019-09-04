@@ -1,0 +1,24 @@
+{
+  "transactionApplicationInitiateActionRecord" : {},
+  "transactionApplicationInstanceReference" : "TAIR715744",
+  "transactionApplicationInstanceRecord" : {
+    "transactionPositionImpactAssessment" : "transactionPositionImpactAssessment"
+  },
+  "transactionApplicationInitiateActionReference" : "TAIAR793904",
+  "transactionApplicationInstanceStatus" : "transactionApplicationInstanceStatus",
+  "positionManagementInstanceRecord" : {
+    "positionNotificationArrangementRecord" : {
+      "positionNotificationDetails" : "positionNotificationDetails",
+      "positionNotificationRecord" : {},
+      "positionNotificationBusinessUnitReference" : "770445"
+    },
+    "positionType" : "positionType",
+    "positionSector" : "positionSector",
+    "positionProductType" : "positionProductType",
+    "positionNotificationArrangementReference" : "702533",
+    "positionCustomerReference" : "774470",
+    "positionThresholdsLimits" : "positionThresholdsLimits",
+    "positionValue" : "positionValue",
+    "positionDefinition" : "positionDefinition"
+  }
+}

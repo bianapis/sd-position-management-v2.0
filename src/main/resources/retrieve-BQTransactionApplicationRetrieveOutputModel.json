@@ -1,0 +1,27 @@
+{
+  "transactionApplicationInstanceAnalysis" : {
+    "transactionApplicationInstanceAnalysisReportType" : "transactionApplicationInstanceAnalysisReportType",
+    "transactionApplicationInstanceAnalysisParameters" : "transactionApplicationInstanceAnalysisParameters",
+    "transactionApplicationInstanceAnalysisReport" : {},
+    "transactionApplicationInstanceAnalysisRecord" : {}
+  },
+  "transactionApplicationRetrieveActionTaskRecord" : {},
+  "transactionApplicationInstanceRecord" : {
+    "transactionType" : "transactionType",
+    "transactionRecord" : {
+      "transactionBookingEntity" : "transactionBookingEntity",
+      "transactionAmount" : "USD 250",
+      "transactionDate" : "09-22-2018"
+    },
+    "transactionPositionImpactAssessment" : "transactionPositionImpactAssessment",
+    "transactionReference" : "727831"
+  },
+  "transactionApplicationRetrieveActionTaskReference" : "TARATR735955",
+  "transactionApplicationRetrieveActionResponse" : "transactionApplicationRetrieveActionResponse",
+  "transactionApplicationInstanceReport" : {
+    "transactionApplicationInstanceReportType" : "transactionApplicationInstanceReportType",
+    "transactionApplicationInstanceReportParameters" : "transactionApplicationInstanceReportParameters",
+    "transactionApplicationInstanceReportRecord" : {},
+    "transactionApplicationInstanceReport" : {}
+  }
+}
